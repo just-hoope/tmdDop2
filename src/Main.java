@@ -83,3 +83,8 @@ public class Main {
         System.out.println("normCountS: " + normCountS);
     }
 }
+
+/*Found at step: 17000
+normCountC: 0.35733333333333334
+normCountR: 0.3438181818181818
+normCountS: 0.29884848484848486*/
